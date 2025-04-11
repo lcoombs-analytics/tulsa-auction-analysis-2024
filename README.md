@@ -42,11 +42,4 @@ The analysis focuses on:
 - Installation of Tesseract-OCR and Poppler (ensure these tools are in your system’s PATH).
 - Required Python libraries installed (see `requirements.txt`).
 
-### Installation
-
-Clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/lcoombs-analytics/Tulsa-Auction-Analysis-2024.git
-cd Tulsa-Auction-Analysis-2024
-pip install -r requirements.txt
+**###W Work in Progress**
